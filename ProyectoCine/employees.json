@@ -1,0 +1,61 @@
+{
+    "employees":[
+	{
+	    "name": "Carlos",
+	    "salary": "10000",
+	    "job": "Admin",
+	    "packages": 0,
+	    "extra_hours": 0,
+	    "membership": 0
+
+	},
+	{
+	    "name": "Edwin",
+	    "salary": "4000",
+	    "job": "Mante",
+	    "packages": 0,
+	    "extra_hours": 10,
+	    "membership": 0
+	},
+	{
+	    "name": "Oscar",
+	    "salary": "3500",
+	    "job": "Ventas",
+	    "packages": 10,
+	    "extra_hours": 0,
+	    "membership": 0
+	},
+	{
+	    "name": "Manuel",
+	    "salary": "3500",
+	    "job": "Ventas",
+	    "packages": 13,
+	    "extra_hours": 0,
+	    "membership": 1
+	},
+	{
+	    "name": "Jose",
+	    "salary": "3500",
+	    "job": "Ventas",
+	    "packages": 8,
+	    "extra_hours": 0,
+	    "membership": 14
+	},
+	{
+	    "name": "Daniel",
+	    "salary": "3500",
+	    "job": "Ventas",
+	    "packages": 18,
+	    "extra_hours": 0,
+	    "membership": 3 
+	},
+	{
+	    "name": "Karla",
+	    "salary": "3500",
+	    "job": "Ventas",
+	    "packages": 12,
+	    "extra_hours": 0,
+	    "membership": 6 
+	}
+    ]
+}

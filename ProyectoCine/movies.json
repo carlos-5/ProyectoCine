@@ -1,0 +1,54 @@
+{
+    "movies":[
+	{
+	    "name": "Advengers",
+	    "raised": "0",
+	    "tickets": 0
+	},
+	{
+	    "name": "Superman",
+	    "raised": "0",
+	    "tickets": 0
+	},
+	{
+		"name": "Batman",
+	    "raised": "0",
+	    "tickets": 0
+	},
+	{
+	    "name": "Jurassic",
+	    "raised": "0",
+	    "tickets": 0
+	},
+	{
+	    "name": "Top Gun",
+	    "raised": "0",
+	    "tickets": 0
+	},
+	{
+	    "name": "Nemo",
+	    "raised": "0",
+	    "tickets": 0
+	},
+	{
+	    "name": "Mickeyn mouse",
+	    "raised": "0",
+	    "tickets": 0
+	},
+	{
+	    "name": "Doctor Strange",
+	    "raised": "0",
+	    "tickets": 0
+	},
+	{
+	    "name": "Sonic",
+	    "raised": "0",
+	    "tickets": 0
+	},
+	{
+	    "name": "Uncharted",
+	    "raised": "0",
+	    "tickets": 0
+	}
+    ]
+}

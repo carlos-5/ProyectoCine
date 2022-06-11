@@ -1,0 +1,5518 @@
+{
+    "clients":[
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 12,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 38,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 67,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 45,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 74,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 16,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 62,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 39,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 37,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 84,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 69,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 15,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 86,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 63,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 18,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 12,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 38,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 67,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 45,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 74,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 16,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 62,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 39,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 37,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 84,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 69,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 15,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 86,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 63,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 18,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 12,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 38,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 67,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 45,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 74,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 16,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 62,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 39,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 37,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 84,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 69,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 15,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 86,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 63,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 18,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 12,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 38,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 67,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 45,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 74,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 16,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 62,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 39,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 37,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 84,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 69,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 15,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 86,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 63,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 18,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 12,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 38,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 67,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 45,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 74,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 16,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 62,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 39,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 37,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 84,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 69,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 15,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 86,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 63,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 18,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 12,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 38,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 67,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 45,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 74,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 16,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 62,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 39,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 37,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 84,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 69,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 15,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 86,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 63,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 18,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 12,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 38,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 67,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 45,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 74,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 16,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 62,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 39,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 37,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 84,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 69,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 15,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 86,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 63,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 18,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 12,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 38,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 67,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 45,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 74,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 16,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 62,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 39,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 37,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 84,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 69,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 15,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 86,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 63,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 18,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 12,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 38,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 67,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 45,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 74,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 16,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 62,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 39,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 37,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 84,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 69,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 15,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 86,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 63,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 18,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 12,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 38,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 67,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 45,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 74,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 16,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 62,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 39,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 37,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 84,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 69,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 15,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 86,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 63,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 18,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 12,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 38,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 67,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 45,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 74,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 16,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 62,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 39,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 37,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 84,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 69,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 15,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 86,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 63,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 18,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 12,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 38,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 67,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 45,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 74,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 16,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 62,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 39,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 37,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 84,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 69,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 15,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 86,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 63,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 18,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 12,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 38,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 67,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 45,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 74,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 16,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 62,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 39,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 37,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 84,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 69,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 51,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 34,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 57,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 15,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 86,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 63,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 18,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 28,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 48,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 56,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 12,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 26,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 21,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 29,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 75,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 64,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "M",
+	    "Edad": 36,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 59,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 38,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 58,
+	    "Embarazada": "N",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 52,
+	    "Embarazada": "S",
+	    "tikets": 0
+	},
+	{
+	    "Sexo": "F",
+	    "Edad": 68,
+	    "Embarazada": "S",
+	    "tikets": 0
+	}
+    ]
+}
